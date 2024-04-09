@@ -13,7 +13,7 @@ This Spring Boot project implements simple webhook demonstration application. Th
 ### Clone the Repository
 - Open a terminal or command prompt (Powershell on Windows and Terminal or linux or macOs)
 - Navigate to the directory you want to clone the project. e.g. `cd path/to/your/directory`
-- Run `git clone git@github.com:msackey-IW/webhook-sender-receiver.git`
+- Run `git clone [github.com:msackey-IW/webhook-sender-receiver.git](https://github.com/msackey-IW/webhook-sender-receiver.git)`
 - Run cd `webhook-sender-receiver`
 ### Run the Receiver
 - Change directory into the receiver folder
